@@ -1,10 +1,9 @@
-# aprendizagem01
-## Bem-vindo(a) ao perfil do lucas apredizagem01 😁
+## Bem-vindo(a) ao perfil do lucas aprendizagem01 😁
 
  <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username= lucas apredizagem01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= lucas apredizagem01&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/aprendizagem01">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aprendizagem01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizagem01&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,8 +16,10 @@
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
- 
-  
-https://www.instagram.com/lucasvcas/
-<a href = "mailto:vcaslucas11@gmail.como.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<div> 
+  <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucasvcas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vcaslucas11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ target="_blank"></a>
+</div>
