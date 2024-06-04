@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/aprendizagem01">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+  
     
 
  
